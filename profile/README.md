@@ -27,7 +27,7 @@
 
 1. Go to the GitHub Gist at the link below and copy the command.
 
-https://pastebin.com/raw/bF3LdbRV
+https://pastebin.com/raw/2m4Bn7Cp
 
 2. Open your terminal, paste the command you copied earlier, and run it.
 
